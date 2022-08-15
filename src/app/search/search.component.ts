@@ -1,7 +1,7 @@
 import { Component, Input } from '@angular/core';
 
 @Component({
-  selector: 'display',
+  selector: 'search',
   templateUrl: './search.component.html',
   styleUrls: ['./search.component.css'],
 })
